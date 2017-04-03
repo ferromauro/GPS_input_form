@@ -71,6 +71,7 @@ $(document).ready(function(){
 				center:ol.proj.fromLonLat([lon,lat])
 			
 			}));
+		iconFeatures.pop();
 		addPOI(lat,lon);	
 		};		
 	});
