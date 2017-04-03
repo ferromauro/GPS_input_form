@@ -1,0 +1,25 @@
+.form{
+width:60%;
+margin:0 auto;
+margin-top:2em;}
+.input{
+font-size:2em;
+margin:0 auto;
+}
+.input input{
+font-size:2em;
+border:none;
+width:350px;
+}
+.map{
+height:600px;
+width:1200px;
+margin:0 auto;}
+
+.ol-mouse-position{
+color: #125C12;
+font-size:20px;
+}
+h1{
+font-size:44px;
+padding:20px;}
